@@ -1,0 +1,10 @@
+<types>
+<type id="fromN" priority="3" numLanes="1" speed="45"/>
+<type id="toN" priority="3" numLanes="1" speed="45"/>
+<type id="fromS" priority="3" numLanes="1" speed="45"/>
+<type id="toS" priority="3" numLanes="1" speed="45"/>
+<type id="fromW" priority="3" numLanes="1" speed="45"/>
+<type id="toW" priority="3" numLanes="1" speed="45"/>
+<type id="fromE" priority="3" numLanes="1" speed="45"/>
+<type id="toE" priority="3" numLanes="1" speed="45"/>
+</types>

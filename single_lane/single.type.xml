@@ -1,0 +1,6 @@
+<types>
+<type id="1to2" priority="3" numLanes="1" speed="45"/>
+<type id="2to1" priority="3" numLanes="1" speed="45"/>
+<type id="1to0" priority="3" numLanes="1" speed="45"/>
+<type id="2to3" priority="3" numLanes="1" speed="45"/>
+</types>

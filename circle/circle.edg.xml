@@ -1,0 +1,10 @@
+<edges>
+<edge from="N" to="center" id="fromN" type="fromN"/>
+<edge from="center" to="N" id="toN" type="toN"/>
+<edge from="S" to="center" id="fromS" type="fromS"/>
+<edge from="center" to="S" id="toS" type="toS"/>
+<edge from="E" to="center" id="fromE" type="fromE"/>
+<edge from="center" to="E" id="toE" type="toE"/>
+<edge from="W" to="center" id="fromW" type="fromW"/>
+<edge from="center" to="W" id="toW" type="toW"/>
+</edges>
